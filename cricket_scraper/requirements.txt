@@ -1,0 +1,16 @@
+# Web scraping
+selenium==4.21.0
+webdriver-manager==4.0.1
+
+# Data validation / schemas
+pydantic==2.7.1
+
+# Database
+pymongo==4.7.2
+
+# Task queue (optional but recommended)
+celery==5.4.0
+redis==5.0.4
+
+# Utilities
+python-dotenv==1.0.1
